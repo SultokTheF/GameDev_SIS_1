@@ -10,9 +10,6 @@ Follow the below instructions to get started with 3D-Snake source code:
 3. Open Project in Unity and Enjoy!
 
 ## Screenshots
-
-![Screenshot](Screenshot.PNG)
-
 ![Screenshot](Screenshot2.PNG)
 
 
@@ -30,3 +27,7 @@ The snake doesn't really move. It is based on a spawning pool that creates snake
 ## Target Platform
 
 It's made for windows and 1920x1080 display but can be customized if desired.
+
+## Updates
+* New loading page
+![Screenshot](Screenshot.PNG)
