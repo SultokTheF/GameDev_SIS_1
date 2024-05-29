@@ -31,3 +31,8 @@ It's made for windows and 1920x1080 display but can be customized if desired.
 ## Updates
 * New loading page
 ![Screenshot](Screenshot.PNG)
+
+* Bug fixed
+1) Self collision logic implemented
+2) Random initial position and direction removed of the snake (now user fixed position)
+3) Food on body spawn bug removed
